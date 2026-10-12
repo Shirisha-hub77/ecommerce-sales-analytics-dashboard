@@ -1,6 +1,6 @@
 # E-Commerce Sales Analytics Dashboard
 
-![E-Commerce Analytics Dashboard](dashboard.png)
+![E-Commerce Analytics Dashboard](Dashboard%21.png)
 
 ## Project Overview
 An interactive E-Commerce Sales Analytics Dashboard built using Microsoft Excel to analyze sales performance, order trends, delivery efficiency, and payment preferences.
